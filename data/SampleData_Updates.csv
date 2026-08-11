@@ -1,0 +1,10 @@
+sale_id,sale_date,customer_name,region,segment,product_name,amount,quantity
+1009,1/9/2023,Bob,West,Gold,Widget B,320,3
+1010,1/10/2023,Carol,East,Retail,Widget A,210,2
+1011,1/11/2023,Eve,Central,Premium,Widget D,600,6
+1012,1/12/2023,Alice,East,Retail,Widget A,520,5
+1013,1/13/2023,,East,Retail,Widget A,500,5
+1014,1/14/2023,Bob,West,Premium,Widget B,-100,3
+1015,1/15/2023,Carol,North,Retail,Widget C,350,
+1016,1/16/2023,Eve,Central,Premium,Widget D,abc,6
+1017,1/17/2023,Alice,East,Retail,Widget A,520,0
