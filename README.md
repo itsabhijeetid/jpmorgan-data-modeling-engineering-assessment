@@ -66,7 +66,7 @@ JPMorganChase_Data_Modeling_Assessment/
 ├── README.md
 │
 ├── notebooks/
-│   ├── 00_Config
+│   ├── Config
 │   ├── 01_Bronze_Ingestion
 │   ├── 02_Silver_Data_Quality
 │   ├── 03_Dimensions
@@ -82,7 +82,7 @@ JPMorganChase_Data_Modeling_Assessment/
 Run the notebooks in this order:
 
 ```text
-00_Config
+Config
     ↓
 01_Bronze_Ingestion
     ↓
@@ -97,7 +97,7 @@ Run the notebooks in this order:
 
 ### Notebook
 
-`00_Config`
+`Config`
 
 Contains the common catalog, schema, and table names used throughout the pipeline.
 
@@ -476,7 +476,7 @@ Each notebook has a clear responsibility, making the pipeline easier to understa
 Execute the notebooks in this order:
 
 ```text
-1. 00_Config
+1. Config
 2. 01_Bronze_Ingestion
 3. 02_Silver_Data_Quality
 4. 03_Dimensions
