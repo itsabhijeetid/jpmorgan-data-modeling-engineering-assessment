@@ -1,4 +1,4 @@
-# JPMorganChase Data Modelling & Engineering Assessment
+# Data Modelling & Engineering Project
 
 ## Overview
 
